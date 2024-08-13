@@ -75,7 +75,7 @@ const Sidebar = () => {
         <SidebarIcon
           icon="/icons/stack-inactive.png"
           activeIcon="/icons/stack.png"
-          link="/invest"
+          link="/wealth-services"
           tooltip="Wealth Services"
           hovered={hovered}
           setHovered={handleMouseEnter}
